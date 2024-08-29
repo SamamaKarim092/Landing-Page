@@ -221,4 +221,17 @@
 }
 
 
+.fifth-section {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  background-color: #1f2937;
+}
+
+.fifth-section .footer {
+  color: white;
+  font-size: 18px;
+}
+
 
